@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T17:26:36.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="C5rHcqIys_Qrt6rvEoW8" version="17.5.0" type="github"><diagram id="2QrT2CxuCODaqadxCy0M" name="Page-1">jZJLT8QgEMc/TY8mbUn2cXTrrh40HnrYMyljwUCplErrp5fK0Ec2m3hi+M2DmT+TkEINz4a2/E0zkEmesiEhT0meZ9kh9cdExkD2xzyA2giGQQsoxQ8gxLy6Fwy6TaDVWlrRbmGlmwYqu2HUGO22YR9abl9taQ03oKyovKVXwSwP9JDvF/4Coubx5Wx3DB5FYzBO0nHKtFshck5IYbS2wVJDAXISL+oS8i53vHNjBhr7nwT39Vry8bFVnX2/ctXS0+XzAat8U9njwNisHaMCRvcNg6lImpCT48JC2dJq8jr/555xq6S/Zd7EcmAsDHf7zObp/dqAVmDN6ENiAkHBcGNIXAW36J9FUflK+x0yil9ez6UXVbyBwsTr8gF/vtUak/Mv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-30T22:30:07.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="tw_BE1FDj5tPOa6c-tYX" version="17.5.0" type="github">
+  <diagram id="2QrT2CxuCODaqadxCy0M" name="Page-1">
+    <mxGraphModel dx="1180" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bwI0bddc9rIdZFETt4Zj-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Carteira&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwI0bddc9rIdZFETt4Zj-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fundos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwI0bddc9rIdZFETt4Zj-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ItemCarteira&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
